@@ -1,2 +1,2 @@
 # Color Detector
- Can detect anmong 800 different RGB colors
+ Can detect among 800 different RGB colors
